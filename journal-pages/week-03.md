@@ -15,11 +15,11 @@ At the start of class, I shared my Week 2 interactive sketches with a partner an
 What I found useful about this discussion was that it made me think more clearly about what interaction actually adds. It is not just about making something move. It changes the way a viewer explores the work and how long they stay with it. If I had more time, I would keep developing the blackjack sketch with better visual feedback, more polished motion, and maybe sound.
 
 
-![Blackjack sketch screenshot](../assets/week-03/week2.png)
+![ screenshot](../assets/week-03/week2.png)
 
 
 
-![Tree and stars sketch screenshot](../assets/week-03/weekh.png)
+![ screenshot](../assets/week-03/weekh.png)
 
 
 ## Making Journal Check-In

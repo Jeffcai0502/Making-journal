@@ -13,9 +13,9 @@ layout: default
 ![Pair exchange photo](../assets/week-02/pair-exchange-food-portrait.jpg)
 *Pair exchange discussion about my Week 01 food data portrait.*
 
-In the pair exchange, I showed my Week 01 data portrait based on five days of tracking breakfast, lunch, and dinner. I recorded what I ate, the time, my mood, and my energy level for each meal. Explaining the drawing out loud helped me see which parts of the portrait were doing the most work. The repeated lunches were very obvious, while breakfast and dinner showed more variation. My partner also understood the mood and energy parts quite quickly, which made me feel that the hand-drawn version was already communicating more than just a meal log.
+ I showed my Week 01 data portrait based on five days of tracking breakfast, lunch, and dinner. I recorded what I ate, the time, my mood, and my energy level for each meal. Explaining the drawing out loud helped me see which parts of the portrait were doing the most work. The repeated lunches were very obvious, while breakfast and dinner showed more variation. My partner also understood the mood and energy parts quite quickly, which made me feel that the hand-drawn version was already communicating more than just a meal log.
 
-The discussion also helped me decide what to carry forward into code. I did not need to translate every part of the drawing. The most interesting parts were time, repetition, mood, and energy, because those are the things that become clearer when a viewer can filter, compare, and hover over details. That conversation gave me the direction for my interactive sketch later in the week.
+The discussion also helped me decide what to carry forward into code. I did not need to translate every part of the drawing. The most interesting parts were time, repetition, mood, and energy, That conversation gave me the direction for my interactive sketch later in the week.
 
 ## Experiment of p5.js
 

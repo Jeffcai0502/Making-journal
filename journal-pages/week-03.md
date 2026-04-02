@@ -10,17 +10,17 @@ layout: default
 
 ## Pair Exchange of Interactive Data Portrait
 
-At the start of class, I shared my Week 2 interactive sketches with a partner and talked through what a viewer could understand by interacting with them. I showed both the blackjack sketch and the tree-and-stars sketch, which made it easier to compare two different kinds of interaction. The blackjack sketch felt more game-like and immediate, while the other sketch felt lighter and more decorative.
+At the start of class, I shared my Week 2 interactive sketches with a partner and talked through what a viewer could understand by interacting with them. I showed both the 
 
 What I found useful about this discussion was that it made me think more clearly about what interaction actually adds. It is not just about making something move. It changes the way a viewer explores the work and how long they stay with it. If I had more time, I would keep developing the blackjack sketch with better visual feedback, more polished motion, and maybe sound.
 
-<!-- Add screenshot: Week 2 blackjack sketch -->
-![Blackjack sketch screenshot](../assets/week-03/week2-blackjack-sketch.png)
-*Week 2 blackjack sketch shared during pair exchange.*
 
-<!-- Add screenshot: Week 2 tree and stars sketch -->
-![Tree and stars sketch screenshot](../assets/week-03/week2-tree-stars-sketch.png)
-*Week 2 tree and stars sketch shared during pair exchange.*
+![Blackjack sketch screenshot](../assets/week-03/week2.png)
+
+
+
+![Tree and stars sketch screenshot](../assets/week-03/weekh.png)
+
 
 ## Making Journal Check-In
 

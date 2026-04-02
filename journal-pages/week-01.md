@@ -2,203 +2,205 @@
 
 ## Overview
 
-Week 01 was about data, visualisation, treating data as a creative material, and data humanism. The main task was **Experiment 1: Data Drawings** — both a group portrait and an independent one. This documents what I did with both, and also my first time trying to use Markdown for a journal.
+Week 01 was mainly about getting into what this course is actually about: data, visualisation, and how data can be treated as a creative material. The main task for this week was **Experiment 1: Data Drawings**, which had two parts: a **group data portrait** and an **independent data portrait**.
 
-## Note on attendance and method
+This entry records both parts of the experiment, as well as my first go at using Markdown for the Making Journal.
 
-I missed the live studio, so I worked through the slides, recording, and brief independently and reconstructed the workshop myself.
+## Note on attendance
 
-For the group activity, I used ChatGPT to generate fake participant data so I could test the format. Everything else—the structure, the visual system, the decoding, the independent portrait, and the reflections—is mine.
+I missed the Week 01 studio, so for the group activity I worked back through the Week 01 brief, leacture recording and slides and then reconstructed the task by myself so I could still understand how the exercise worked.
+
+For the group section only, I asked my friends as anonymous stand-in participants, since the original task was designed for a group of 4–5 people. Everything else here, including the visual decisions, reflections, and independent task, was done by me.
 
 ---
 
-## Group Data Portrait (Reconstructed)
+## Group Data Portrait
 
-### Overview
+### What I was trying to do
 
-The task was to work in groups of 4–5, collect personal data from each other, and turn it into a hand-drawn portrait. What I liked about it was that it didn't ask for demographic stuff. It focused on small, slightly messy details—things that are more human.
+The group task was about collecting small bits of personal data from a few people and turning that into a hand-drawn group portrait. I liked that the questions were supposed to be personal but still low-stakes. It makes the data feel more human and less like a survey.
 
-Since I missed it, I reconstructed the workshop to understand how it works as a design exercise.
+Since I missed the class, I reconstructed the activity so I could still work through the process properly. 
 
-### Step 1 — Questions
+### Questions
 
-I wrote five questions. Tried to make them personal but still ordinary.
+I came up with five questions based on the brief:
 
-1. What were you thinking about on the way to class today?
-2. How many hours of sleep did you get last night?
-3. What sound did you notice this morning?
-4. On a scale of your own invention, how are you feeling right now?
+1. How many hours of sleep did you get last night?
+2. How would you rate your energy right now from 1–5?
+3. Whats one animal you seen today?
+4. How focused do you feel right now from 1–5?
 5. How many tabs are open on your phone right now?
 
-### Stand-in participant responses
+### Anonymous participant responses
 
-I generated five fake people.
+To simulate the group format, I am the participant A and asked my friends as four stand-in participants. I asked the questions to friends.
 
-| Participant | Thought on the way to class | Sleep | Sound noticed | Feeling scale | Phone tabs |
-|---|---|---:|---|---|---:|
-| A | Thinking about unfinished work | 5.5 | bus brakes | 3/5, functional but foggy | 18 |
-| B | Wondering what to eat later | 7 | birds outside the window | sunny but slow | 9 |
-| C | Mentally replaying a conversation | 4 | keys hitting a table | 2/5, scattered | 31 |
-| D | Thinking about rent and deadlines | 6 | footsteps in a hallway | held together by coffee | 14 |
-| E | Thinking about nothing in particular | 8 | shower water | 4/5, calm | 6 |
+| Participant | Sleep (hrs) | Energy (1–5) | Animal | Focus (1–5) | Phone tabs |
+|---|---:|---:|---:|---:|---:|
+| A | 5 | 2 | Bird | 3 | 18 |
+| B | 7 | 4 | Dog | 3 | 9 |
+| C | 4 | 2 | Cat | 2 | 31 |
+| D | 6 | 3 | Bird | 4 | 14 |
+| E | 8 | 1 | lizard | 4 | 6 |
 
-### Step 2 — Visual system
+### How I planned to draw it
 
-I planned vertical clusters for each person instead of a chart. Wanted it to feel more like a character sketch.
+I planned the portrait as five different color, one for each participant. Each color used the same visual system so the differences between people would be easy to compare.
 
-#### Encoding system
+My visual system was:
 
-- **Column position** = participant
-- **Circle size** = sleep
-- **Line around circle** = feeling
-  - smooth = calm
-  - broken = foggy
-  - dense scribble = stressed
-- **Icon above** = morning sound
-  - zigzag = bus brakes
-  - curved = birds
-  - square = keys
-  - short lines = footsteps
-  - droplets = shower
-- **Handwritten phrase** = thought
-- **Grouped dots** = phone tabs
+- **Number of "Z" next to the face** = sleep hours
+- **Sad face to happy face** = energy level
+- **Animal drawing** = animal
+- **Number of glasses next to the face** = focus level  
+- **Number on a phone drawing** = number of phone tabs
 
-This made me think about what drawing can show that a spreadsheet can't. A spreadsheet flattens everything. Drawing lets you show mess, rhythm, contrast.
+What I liked about this system is that it lets the drawing show mood and texture, not just information. If the same answers were put into a spreadsheet, they would probably feel flatter and less personal.
 
-![Reconstructed group data portrait sketch](../assets/week-01/group-portrait-sketch.jpg)
-*Initial sketch for the reconstructed group portrait.*
+![Reconstructed group portrait sketch](../assets/week-01/group-portrait-sketch.jpg)
+*Rough sketch of the reconstructed group portrait.*
 
 ![Reconstructed group portrait legend](../assets/week-01/group-portrait-legend.jpg)
-*Legend showing how sleep, sound, mood, and phone tabs were encoded.*
+*Legend for the symbols, line styles, and dot groupings.*
 
-### Step 3 — Decode
+### Decoding the portrait
 
-Since I couldn't exchange portraits with another group, I wrote decoding notes like another group might have.
+Since I was working alone, I obviously could not literally swap the drawing with another group. Instead, I wrote down the kind of notes I think another group might make if they were trying to read it.
 
-#### Decoding notes
+#### What the portrait seems to show
 
-- Everyone's tired but differently. Some calm, some overloaded.
-- The phone tabs vary wildly—6 to 31.
-- The handwritten thoughts and sound icons feel more intimate than a normal chart.
-- You can't pinpoint exactly who is who, but you can sense different personalities in the marks and spacing.
+- The group feels generally tired, but in different ways.
+- Some people seem calm and low-energy, while others feel more mentally busy.
+- The number of phone tabs is weirdly revealing. It gives a sense of how cluttered or controlled someone’s attention might be.
+- The short phrases do a lot of work. They make the portrait feel more human than if it was only numbers.
 
 #### Questions that came up
 
-- Do people with less sleep also look scattered?
-- Are many tabs stress, curiosity, or just how someone works?
-- Which parts feel factual vs. interpretive?
-- Would different marks make the same data feel totally different?
+- Does less sleep always connect to feeling more scattered?
+- Are a lot of tabs a stress thing, or just habit?
+- Which parts of the portrait feel most factual, and which parts feel more interpretive?
+- Would the same answers feel different if the drawing style changed?
 
-### Reflection on the reconstructed group task
+### Short reflection on this part
 
-Doing this alone was strange, but it helped me see what the exercise actually does. It's not about getting numbers right. It's about turning fragments of someone's day into visible marks. The best answers were the messy ones—"held together by coffee," "sunny but slow." Those carry feeling and context in them.
+Even though this was a reconstructed version of the class task, it still helped me understand why the exercise was set up this way. What made it interesting was not really the numbers. It was the vague, slightly emotional answers like “sunny but slow” or “held together by coffee.” Those are hard to measure properly, but they say more about a person than a neat category would.
 
-This connects to what we talked about with data humanism: data doesn't have to become inhuman to be useful. Sometimes it matters more when it stays connected to feeling and imperfection.
+That also made me think more about data humanism. The point is not just to clean everything up and make it more objective. Sometimes the value is in keeping the messy, personal parts visible.
 
 ---
 
 ## Independent Data Portrait
 
-### Topic
+### What I chose to track
 
-I tracked **how I felt when I picked up my phone**.
+For the independent task, I chose to track **how I felt at the moment I picked up my phone**.
 
-### Why this topic
+I picked this because it is something I do constantly without really noticing. Picking up a phone can mean a lot of different things. Sometimes it is useful, sometimes it is automatic, and sometimes it is just procrastination. I wanted to pay attention to the feeling at the start of that action, before it turned into scrolling or checking something.
 
-It's such an invisible habit. You just grab it without thinking. But it's not neutral—sometimes it's a tool, sometimes procrastination, sometimes just fidgeting. I wanted to look at that moment before the screen takes over.
+### Why I picked this topic
 
-Also: phone use gets measured as screen time, which is just a number. But the number doesn't say why. It doesn't capture the feeling that made you reach for it.
+This felt like a good topic for Week 01 because it is small, everyday, and easy to overlook, but it also says a lot about attention and habit. It also connects to the idea of small personal data rather than big abstract datasets.
 
-### Step 1 — Collecting the data
+### Collecting the data
 
-I looked back five days and tried to remember the pattern. No app or timer—just writing down what I remembered. I grouped moments by feeling and whether it was on purpose or automatic.
+Because I was catching up after missing class, I looked back over the last five days and wrote down repeated patterns in my phone-pickup habits by hand. I was less interested in getting a perfect count and more interested in noticing the reasons and feelings behind the action.
 
-Categories:
-- **neutral**
-- **curious**
-- **stressed**
-- **bored**
-- **avoidant**
+I grouped the moments into a few emotional categories:
 
-Then separated into:
-- **intentional**
-- **automatic**
+- neutral
+- curious
+- stressed
+- bored
+- avoidant
+
+I also split them into:
+- intentional
+- automatic
 
 ### Five-day pattern summary
 
-| Day | Main reasons | Feeling |
+| Day | Main reasons for picking up phone | Dominant feelings |
 |---|---|---|
-| Day 1 | messages, time, music | scattered, neutral |
-| Day 2 | notifications, scrolling | restless, escaping |
-| Day 3 | maps, messages, camera | purposeful |
-| Day 4 | alarms, weather, avoiding work | rushed |
-| Day 5 | messages, scrolling, tasks | tired, autopilot |
+| Day 1 | messages, time-checking, music | distracted, neutral |
+| Day 2 | notifications, boredom, social media | restless, avoidant |
+| Day 3 | maps, messages, camera | purposeful, lighter |
+| Day 4 | alarms, weather, procrastination | rushed, fragmented |
+| Day 5 | messaging, scrolling, checking tasks | tired, habitual |
 
-### Step 2 — Designing the visualisation
+### How I planned the drawing
 
-I used rings instead of bars. Wanted the shape to feel like looping and repeating—because that's what phone use feels like.
+For the final drawing, I wanted something circular rather than linear. A ring structure felt better because picking up a phone is repetitive and looping. It does not really feel like a clean beginning-to-end behaviour.
 
-#### Visual language
+My visual system was:
 
-- **One ring** = one day
-- **Each mark** = one pickup
-- **Colour** = feeling
-- **Shape** = intentional or habit
-  - triangle = on purpose
-  - dot = automatic
-- **Distance from center** = how urgent
-- **Notes around it** = triggers like "reply," "bored," "weather check"
+- **one ring** = one day
+- **one mark** = one phone pickup
+- **colour** = emotional state
+- **triangle** = intentional
+- **dot** = automatic
+- **distance from the centre** = urgency
+- **small handwritten words around the outside** = common triggers like “reply”, “time check”, “weather”, or “bored scroll”
 
-Building through repetition instead of one number felt right. I wanted the final drawing to look slightly frantic and compulsive, because that's closer to what phone use actually is.
+I wanted the drawing to feel slightly dense and repetitive on purpose. That seemed closer to the actual feeling of phone use than a clean chart would.
 
-![Handwritten collection notes for phone pickups](../assets/week-01/phone-data-notes.jpg)
-*Rough handwritten notes used to group recurring phone-pickup moments across five days.*
+![Handwritten phone pickup notes](../assets/week-01/phone-data-notes.jpg)
+*Rough notes from grouping phone-pickup moments over five days.*
 
-![Independent data portrait sketch](../assets/week-01/independent-portrait-sketch.jpg)
-*Sketch for the independent circular data portrait.*
+![Independent portrait sketch](../assets/week-01/independent-portrait-sketch.jpg)
+*Sketch for the circular phone-pickup data portrait.*
 
-![Independent data portrait legend](../assets/week-01/independent-portrait-legend.jpg)
-*Legend showing how colour, shape, and distance were used in the personal data portrait.*
+![Independent portrait legend](../assets/week-01/independent-portrait-legend.jpg)
+*Legend for emotion, urgency, and intentional vs automatic actions.*
 
 ---
 
 ## Reflection
 
-Once I started paying attention to that moment before opening an app, it stopped feeling invisible. What surprised me was how many pickups weren't about looking for something. They were restlessness, time-wasting, habit. That matters because a screen time number would never show it.
+Tracking how I felt when I picked up my phone made a really ordinary habit feel visible again. Most of the time I do not think about that action at all. It is just something that happens. Once I started treating it like data, I noticed that it was not neutral. A lot of the time there was already a mood attached to it before I had even unlocked the screen.
 
-The drawing made a real difference. A bar chart would look organized. But phone use doesn't feel organized. It feels repetitive and slightly compulsive. So the dense circular drawing felt closer to the actual experience.
+What stood out most was how different the same action could be depending on context. Sometimes picking up my phone was practical, like checking the time or replying to someone. Other times it was more like avoidance, boredom, or just reflex. If I only measured total screen time, I would miss that completely. The emotional reason behind the action ended up being more interesting than the amount.
 
-I read about Giorgia Lupi and *Dear Data* in the Week 01 materials. That's what data humanism seems to mean—you don't have to strip away the mess to make something meaningful. Sometimes the mess is the point.
+The drawing part mattered too. I did not want the final outcome to look too polished, because the behaviour itself does not feel polished. It feels repetitive, slightly messy, and sometimes automatic. That is why the circular layout made more sense to me. It shows accumulation and repetition instead of pretending each moment was isolated.
 
-There's also a problem: I was remembering this, not tracking it live. So this is my memory of patterns, not a precise log. Which means it's already interpretation. But that made me realize how much interpretation happens even when you're collecting data. You're always choosing what to notice.
+This also felt close to the ideas from Week 01 around data humanism and *Dear Data*. What I took from that is that data does not have to become cold in order to be useful. It can still stay connected to daily life, feeling, and interpretation. In this case, the drawing is not just showing information back to me. It is also showing how I chose to notice and frame that information.
+
+At the same time, this method definitely leaves things out. Because I worked retrospectively, it is based on remembered patterns rather than a perfectly precise live record. But that actually became part of the point for me. It made me think about how data collection is never completely neutral. Even when the topic is simple, what gets recorded depends on memory, emphasis, and attention. That was probably the most useful part of the exercise.
 
 ---
 
 ## Working in Markdown
 
-First time using Markdown seriously for something longer. It's simpler than a formatted document, but more deliberate. Everything is plain text, so structure becomes visible. Headings, lists, tables, images—they all have to be clear.
+This was also my first proper try at writing a journal entry in Markdown. It feels simpler than working in a fully formatted document, but in a good way. Because everything is plain text, the structure is much more obvious. I had to think more clearly about headings, image placement, tables, captions, and the order of sections.
 
-I used:
+For this entry I used:
 
-- headings to break things into sections
-- tables for data summaries
-- lists for methods and visual systems
-- images with captions next to reflection
+- headings to split the journal into sections
+- tables to summarise responses and patterns
+- lists to explain methods and visual systems
+- image embeds and captions to place process evidence next to the writing
 
-It's lightweight enough that it doesn't get in the way of the work.
+I can see why the course uses Markdown for the journal. It is simple, readable, and easy to edit, but still structured enough to become a website.
 
 ---
 
 ## Week 01 takeaways
 
-- Small details can carry meaning.
-- You don't need large data sets to be interesting.
-- Drawing shows mood and uncertainty better than charts do.
-- How you collect data shapes what you'll see.
-- Drawings are interpretation, not neutral presentation.
+- Small personal data can be more interesting than expected.
+- The way something is drawn changes how the data feels.
+- Hand-drawn work can hold ambiguity better than a standard chart.
+- Data collection is already a form of interpretation.
+- Paying attention to everyday habits changes how visible they become.
 
 ---
 
 ## AI Acknowledgement
 
-ChatGPT was used only to generate the fake participant data for the group portrait. Everything else—the reconstruction, the topic choice, the visual systems, the drawings, the reflections—was me.
+I used ChatGPT in a limited way for this entry.
+
+
+The main ideas, topic choice, reflections, and overall entry were done by me.
+
+### AI tool reference
+
+OpenAI. (2026). ChatGPT (Mar 14 version) [Large language model]. https://chat.openai.com/

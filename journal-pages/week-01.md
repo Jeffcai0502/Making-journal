@@ -1,5 +1,7 @@
 # Week 01 — Experiment 1: Data Drawings
 
+[← Back to Home](../index.md)
+
 ## Overview
 
 Week 01 was mainly about getting into what this course is actually about: data, visualisation, and how data can be treated as a creative material. The main task for this week was **Experiment 1: Data Drawings**, which had two parts: a **group data portrait** and an **independent data portrait**.

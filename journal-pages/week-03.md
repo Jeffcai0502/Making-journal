@@ -10,16 +10,16 @@ layout: default
 
 ## Pair Exchange of Interactive Data Portrait
 
-At the start of class, I shared my Week 2 interactive sketches with a partner and talked through what a viewer could understand by interacting with them. I showed both the 
+I shared my Week 2 interactive sketches with a partner and talked through what a viewer could understand by interacting with them. I showed both the 
 
 What I found useful about this discussion was that it made me think more clearly about what interaction actually adds. It is not just about making something move. It changes the way a viewer explores the work and how long they stay with it. If I had more time, I would keep developing the blackjack sketch with better visual feedback, more polished motion, and maybe sound.
 
 
-![ screenshot](../assets/week-03/week2.png)
+![Pair exchange photo](../assets/week-03/data1.png)
 
+![ screenshot](../assets/week-03/data2.png)
 
-
-![ screenshot](../assets/week-03/weekh.png)
+![ screenshot](../assets/week-03/data3.png)
 
 
 ## Making Journal Check-In
@@ -37,12 +37,12 @@ During this check, I noticed that some of my images were not loading correctly. 
 - [x] website is published
 - [x] images display correctly online
 
-<!-- Add screenshot: website page showing Week 03 -->
-![Website screenshot](../assets/week-03/website-check-week03.png)
+
+![Website screenshot](../assets/week-03/data4.png)
 *Week 03 page visible on my GitHub Pages site.*
 
-<!-- Add screenshot: image path fixed and working -->
-![Image path fix screenshot](../assets/week-03/website-image-fixed.png)
+
+![Image path fix screenshot](../assets/week-03/data5.png)
 *After correcting the image path, the media displayed properly online.*
 
 ## Activity 1 – Exploring Live Data with `curl`
@@ -80,7 +80,7 @@ curl wttr.in/Taipei
 ```
 
 <!-- Add GIF or screenshot: wttr.in weather output -->
-![Weather output in terminal](../assets/week-03/wttr-weather.gif)
+![Weather output in terminal](../assets/week-03/gif3.gif)
 *Using `wttr.in` to retrieve a weather report in the terminal.*
 
 ### Demo 3 – Filtering live data
@@ -90,7 +90,7 @@ curl "wttr.in/Taipei?format=%l:+%t+%h+%w"
 ```
 
 <!-- Add GIF or screenshot: filtered wttr.in output -->
-![Filtered weather output](../assets/week-03/wttr-filtered.gif)
+![Filtered weather output](../assets/week-03/gif4.gif)
 *Filtering live weather data so only selected values are returned.*
 
 ### Demo 4 – Raw JSON
@@ -183,9 +183,9 @@ This second version was still quite simple, but it pushed the sketch closer to t
 [View the animated weather sketch](https://editor.p5js.org/Jeffcai0502/sketches/U3zb2r5QB)
 
 <!-- Add screenshot or GIF: animated weather sketch -->
-![Animated weather sketch](../assets/week-03/animated-weather-sketch.gif)
+![Animated weather sketch](../assets/week-03/gif.gif)
 *Animated p5.js weather sketch using `noise()` and extra live weather variables.*
-
+![Animated weather sketch](../assets/week-03/gif2.gif)
 ### Animated Weather Sketch Code
 
 ```javascript

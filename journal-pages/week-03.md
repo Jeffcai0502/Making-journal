@@ -121,11 +121,11 @@ For the weather sketch, I changed the example location from Auckland to Taipei. 
 In the basic version, temperature controls the size of the main circle, humidity affects the background colour, and wind speed controls the width and weight of the bar near the bottom of the canvas. This was useful because it made the logic of API-based drawing very clear. Rather than manually choosing all the values, the sketch responds to information coming from outside the program.
 
 <!-- Add screenshot: latitude and longitude source -->
-![Taipei coordinates screenshot](../assets/week-03/taipei-coordinates.png)
+![Taipei coordinates screenshot](../assets/week-03/data15.png)
 *Finding the latitude and longitude for Taipei before building the API request.*
 
 <!-- Add screenshot: Open-Meteo settings or API URL -->
-![Open-Meteo settings screenshot](../assets/week-03/open-meteo-taipei.png)
+![Open-Meteo settings screenshot](../assets/week-03/data14.png)
 *Setting up the Open-Meteo API request for Taipei.*
 
 [View the basic weather sketch](https://editor.p5js.org/Jeffcai0502/sketches/gOG-LETUy)

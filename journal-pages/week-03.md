@@ -44,6 +44,7 @@ During this check, I noticed that some of my images were not loading correctly. 
 
 ![Image path fix screenshot](../assets/week-03/data5.png)
 *After correcting the image path, the media displayed properly online.*
+![Image path fix screenshot](../assets/week-03/data6.png)
 
 ## Activity 1 – Exploring Live Data with `curl`
 
@@ -58,8 +59,10 @@ ls
 ```
 
 <!-- Add screenshot: terminal navigation and hello.txt -->
-![Terminal navigation screenshot](../assets/week-03/terminal-navigation.png)
+![Terminal navigation screenshot](../assets/week-03/data7.png)
 *Using the terminal to navigate folders and create a text file.*
+
+![Terminal navigation screenshot](../assets/week-03/data8.png)
 
 After that, we used `curl` to request live data from the internet. I tried the ASCII animations first, then weather information from `wttr.in`, and then raw JSON from the Free Dictionary API. This was one of the most useful moments of the class for me, because it showed the difference between reading information on a website and accessing the data itself. In a browser, most of the interface is built for people. In the terminal, what comes back feels much closer to raw material that can later be filtered, parsed, or visualised.
 
@@ -70,8 +73,14 @@ curl ascii.live/forrest1
 ```
 
 <!-- Add GIF or screenshot: ASCII animation in terminal -->
-![ASCII animation in terminal](../assets/week-03/ascii-animation.gif)
+![ASCII animation in terminal](../assets/week-03/gif3.gif)
 *Streaming ASCII animation in the terminal using `curl`.*
+
+```bash
+curl ascii.live/parrot
+```
+
+![ASCII animation in terminal](../assets/week-03/gif4.gif)
 
 ### Demo 2 – Weather output
 
@@ -80,7 +89,7 @@ curl wttr.in/Taipei
 ```
 
 <!-- Add GIF or screenshot: wttr.in weather output -->
-![Weather output in terminal](../assets/week-03/gif3.gif)
+![Weather output in terminal](../assets/week-03/data9.png)
 *Using `wttr.in` to retrieve a weather report in the terminal.*
 
 ### Demo 3 – Filtering live data
@@ -90,7 +99,7 @@ curl "wttr.in/Taipei?format=%l:+%t+%h+%w"
 ```
 
 <!-- Add GIF or screenshot: filtered wttr.in output -->
-![Filtered weather output](../assets/week-03/gif4.gif)
+![Filtered weather output](../assets/week-03/data11.png)
 *Filtering live weather data so only selected values are returned.*
 
 ### Demo 4 – Raw JSON
@@ -100,7 +109,7 @@ curl https://api.dictionaryapi.dev/api/v2/entries/en/design
 ```
 
 <!-- Add screenshot: raw JSON in terminal -->
-![Raw JSON screenshot](../assets/week-03/dictionary-json.png)
+![Raw JSON screenshot](../assets/week-03/data10.png)
 *Raw JSON returned by the dictionary API.*
 
 Working with these examples made me realise that live data does not arrive ready-made as a polished visualisation. It arrives as text, parameters, and structured data. The design work happens in the translation.
@@ -122,7 +131,7 @@ In the basic version, temperature controls the size of the main circle, humidity
 [View the basic weather sketch](https://editor.p5js.org/Jeffcai0502/sketches/gOG-LETUy)
 
 <!-- Add screenshot: basic weather sketch in p5.js -->
-![Basic weather sketch screenshot](../assets/week-03/basic-weather-sketch.png)
+![Basic weather sketch screenshot](../assets/week-03/data12.png)
 *Basic p5.js weather sketch using temperature, humidity, and wind speed.*
 
 ### Basic Weather Sketch Code
@@ -288,10 +297,10 @@ I kept the final design quite straightforward on purpose. I did not want to make
 ![USGS API screenshot](../assets/week-03/usgs-api-browser.png)
 *Testing the USGS earthquake API and reading the GeoJSON response.*
 
-[View the earthquake sketch](PASTE-YOUR-EARTHQUAKE-SKETCH-LINK-HERE)
+[View the earthquake sketch](https://editor.p5js.org/Jeffcai0502/sketches/DCJaAco58)
 
 <!-- Add screenshot: first version of earthquake sketch -->
-![First earthquake sketch version](../assets/week-03/earthquake-sketch-first-version.png)
+![First earthquake sketch version](../assets/week-03/data13.png)
 *First version of the earthquake sketch, focused on basic mapping.*
 
 <!-- Add screenshot or GIF: refined final earthquake sketch -->

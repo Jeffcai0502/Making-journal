@@ -294,7 +294,7 @@ I first checked the API response and looked at the structure of the GeoJSON data
 I kept the final design quite straightforward on purpose. I did not want to make it overly complicated. Instead, I focused on making the information readable and clearly connected to the data. I added a grid, a title, and a small legend so that the sketch would feel more like a visualisation and less like a random field of circles.
 
 <!-- Add screenshot: USGS API in browser or JSON -->
-![USGS API screenshot](../assets/week-03/usgs-api-browser.png)
+![USGS API screenshot](../assets/week-03/data16.png)
 *Testing the USGS earthquake API and reading the GeoJSON response.*
 
 [View the earthquake sketch](https://editor.p5js.org/Jeffcai0502/sketches/DCJaAco58)

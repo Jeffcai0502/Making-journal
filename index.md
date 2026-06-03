@@ -5,7 +5,9 @@ title: Home
 
 # Making Journal for DES240
 
-*Write a short introduction about yourself and this course here. What are you hoping to learn and achieve? What's your background as a designer? What are your interests as a designer?*
+My name is Junhao Cai, and I study Design and Fine Arts at the University of Auckland. My design background combines visual creativity, technical problem-solving, automotive design, and hands-on prototyping.
+
+In DES240: Designing with Data, I hope to learn how data can become visual, interactive, and meaningful. I am interested in how design can translate behaviour, identity, and emotion into experiences that help audiences reflect on themselves and the systems around them.
 
 ---
 

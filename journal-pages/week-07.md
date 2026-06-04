@@ -309,7 +309,7 @@ For next week’s progress report, I organised my current project direction into
 
 **Interactive Data Mirror** is a website-based data visualisation that uses audience interaction data to explore how digital systems interpret behaviour. The project begins with simple traces such as movement, clicks, pauses, and coverage. These traces may later become a custom character, category, or feedback response.
 
-![Figure 2. Very simple p5.js live data capture test](../assets/week-06/1W7.gif)  
+![Figure 2. Very simple p5.js live data capture test](../assets/week-07/1W7.gif)  
 [View the Test and Code](https://editor.p5js.org/Jeffcai0502/sketches/9yfSe62u7)
 
 ### Key Developments So Far

@@ -96,15 +96,22 @@ The final result is produced from these mixed data sources. This makes the outpu
 
 ---
 
-# 6. Final Design Intention
+# 6. Final Project Statement
 
-The visual language of the final artefact uses a minimal off-white and black interface. This connects the project back to my earlier system diagrams and sketch-based planning. I wanted the website to feel like a technical system, but also like a handmade design artefact.
+Interactive Data Mirror
 
-The moving background particles suggest invisible data traces around the user. The progress bar gives the audience a sense of where they are in the system. The final character is playful and strange because the system’s reading should not feel fully trustworthy. It should feel personal, but also slightly wrong.
+Interactive Data Mirror is a web-based data visualisation that invites audiences to explore how their behaviour can be translated into a personalised digital identity. Instead of asking users to directly describe who they are or how they feel, the website observes small interaction traces: mouse movement, clicks, pauses, choices, time spent, movement coverage, and the paths users take through the interface. These behaviours become the data source for the work.
 
-This balance is important. If the result felt too accurate, the project might appear to support algorithmic personality prediction. If the result felt completely random, the audience would not reflect on how their data shaped the outcome. The final version sits between these two positions: it is meaningful enough to feel connected to the user, but strange enough to remain questionable.
+The visualisation transforms this live interaction data into a custom audience profile, including a generated character, a personality-like category, and reflective feedback. These results are inspired by familiar systems such as personality tests, game profiles, and recommendation algorithms, but they are designed to be questioned rather than accepted as truth. The work asks: when a system reads our behaviour, is it understanding us, simplifying us, or inventing a version of us?
+
+The subject of this project is emotional self expression in everyday digital life. In a near-future scenario, websites, apps, games, and online platforms increasingly interpret users through behavioural patterns rather than direct communication. A pause, a click, or a repeated movement may become evidence of personality, emotion, uncertainty, or desire. This project makes that hidden process visible.
+Critically, Interactive Data Mirror does not claim that data can fully understand a person. Instead, it shows the gap between lived experience and data representation. The audience receives a result that may feel personal, playful, accurate, or uncomfortable, but the feedback also reveals the limits of the system’s interpretation.
+
+The intended impact is to help audiences reflect on how digital systems collect, interpret, and represent them. By turning interaction data into a mirror, the work encourages people to question what parts of themselves can be captured by data, and what remains invisible.
+
 
 ---
+
 
 # 7. Final Showcase Reflection
 

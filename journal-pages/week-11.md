@@ -122,7 +122,6 @@ The showcase version should be clear enough that the audience can use it without
 ## 4.1 Three Final Development Screenshots
 
 ![Figure 1. Screenshot of the earlier system-question page before it was replaced.](../assets/week-11/1w11.png)  
-*Figure 1. Earlier version of the final interaction flow. This screen still used a text-based system question, which felt too abstract and was later replaced.*
 
 ![Figure 2. Screenshot of the final start page after full-screen refinement.](../assets/week-11/2w11.png)  
 *Figure 2. Final start page after refining the layout for a MacBook Air 13-inch full-screen display.*
@@ -293,7 +292,8 @@ The final project now feels more complete because it has both playful interactio
 # 8. Final p5.js Website
 
 [Final Interactive Data Mirror Website](https://editor.p5js.org/Jeffcai0502/full/vkvgoq-qx)
-[Code](https://editor.p5js.org/Jeffcai0502/sketches/vkvgoq-qx)
+
+[Final Code](https://editor.p5js.org/Jeffcai0502/sketches/vkvgoq-qx)
 
 ![Final GIF showing the full Interactive Data Mirror experience from start page to generated character result.](../assets/week-11/1W11.gif)  
 *Final GIF. The completed experience moves from the start page, through behaviour capture, interpretation questions, Pong survival, and final generated character/category result.*

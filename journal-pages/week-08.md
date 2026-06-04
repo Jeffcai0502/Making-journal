@@ -65,11 +65,11 @@ flowchart LR
     D --> E[Future reflection / feedback layer]
     E --> F[Audience questions the system reading]
 ```
-![Figure 1](../assets/week-07/1.jpg)  
-![Figure 2](../assets/week-07/2.jpg)  
-![Figure 3](../assets/week-07/3.jpg)  
-![Figure 4](../assets/week-07/4.jpg)  
-![Figure 5](../assets/week-07/5.jpg)  
+![Figure 1](../assets/week-08/1.jpg)  
+![Figure 2](../assets/week-08/2.jpg)  
+![Figure 3](../assets/week-08/3.jpg)  
+![Figure 4](../assets/week-08/4.jpg)  
+![Figure 5](../assets/week-08/5.jpg)  
 ---
 
 ## 2. Critical Design Proposition

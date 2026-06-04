@@ -63,7 +63,7 @@ This data comes from the audience during the experience, so it is both personal 
 
 I chose this kind of data because it connects directly to my project theme. Many digital systems collect behavioural traces in the background: how long we pause, where we click, what we ignore, how quickly we respond, and what path we take through an interface. These traces can then be used to make assumptions about us. My project begins by making this kind of trace visible.
 
-![Figure 3. Sketch showing how the audience creates data through moving, clicking, and pausing.](../assets/week-06/A1W6.jepg)  
+![Figure 3. Sketch showing how the audience creates data through moving, clicking, and pausing.](../assets/week-06/A1W6.jpeg)  
 
 
 ---
@@ -84,7 +84,7 @@ The Week 06 data structure is intentionally simple. I am only using data that ca
 
 At this stage, I am avoiding interpretation such as “this person is confident” or “this person is anxious.” The data is only being observed and displayed. This is important because I want to build the project gradually. Week 06 should not jump straight into a final emotional-reading system. Instead, it should ask whether this kind of behavioural data is useful material for the project.
 
-![Figure 4. Data structure table / diagram showing raw movement data and coverage data.](../assets/week-06/A2W6.jepg)  
+![Figure 4. Data structure table / diagram showing raw movement data and coverage data.](../assets/week-06/A2W6.jpeg)  
 
 
 ---
@@ -173,7 +173,7 @@ This reinforces the idea that simple data can become powerful if the translation
 
 ### 2.5 Natalie Jeremijenko — *Dangling String*
 
-![Figure 9. Natalie Jeremijenko, Dangling String.](../assets/week-06/DSW6.jepg)  
+![Figure 9. Natalie Jeremijenko, Dangling String.](../assets/week-06/DSW6.jpeg)  
 
 
 **What draws me to it:**  
@@ -365,7 +365,7 @@ The concept sketch includes:
 5. **Audience reflection point**  
    A final moment where the audience considers how the system interpreted them.
 
-![Figure 18. Initial concept sketch showing audience, screen, live capture, and future interpretation layer.](../assets/week-06/A4W6.jepg)  
+![Figure 18. Initial concept sketch showing audience, screen, live capture, and future interpretation layer.](../assets/week-06/A4W6.jpeg)  
 *Figure 18. Placeholder for initial concept sketch.*
 
 This sketch helped me identify that the project should not move too quickly toward a polished outcome. The main task now is to clarify the system and test each layer step by step. The final artefact will become stronger if the early weeks show careful planning, research, and reflection.

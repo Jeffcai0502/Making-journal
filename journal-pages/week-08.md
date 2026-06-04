@@ -65,9 +65,11 @@ flowchart LR
     D --> E[Future reflection / feedback layer]
     E --> F[Audience questions the system reading]
 ```
-
-This diagram helped me explain that the project is not just a technical sketch. It is an experience with a beginning, middle, and reflective ending. The starting page becomes important because it sets the context before data collection begins.
-
+![Figure 1](../assets/week-07/1.jpg)  
+![Figure 2](../assets/week-07/2.jpg)  
+![Figure 3](../assets/week-07/3.jpg)  
+![Figure 4](../assets/week-07/4.jpg)  
+![Figure 5](../assets/week-07/5.jpg)  
 ---
 
 ## 2. Critical Design Proposition
@@ -319,7 +321,7 @@ Going forward, I need to build the interaction page more carefully. The next sta
 
 [Week 08 Starting Page Prototype — paste your live p5.js / GitHub Pages link here](https://editor.p5js.org/your-username/sketches/your-sketch-id)
 
-![Week 08 progress GIF showing the starting page, animated traces, and placeholder interaction page.](../assets/week-08/week-08-progress-gif.gif)  
+![Week 08 progress GIF showing the starting page, animated traces, and placeholder interaction page.](../assets/week-08/1W8.gif)  
 *Week 08 progress GIF. The prototype currently focuses on the start page and leaves the interaction page as a placeholder for later development.*
 
 ---

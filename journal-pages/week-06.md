@@ -63,7 +63,7 @@ This data comes from the audience during the experience, so it is both personal 
 
 I chose this kind of data because it connects directly to my project theme. Many digital systems collect behavioural traces in the background: how long we pause, where we click, what we ignore, how quickly we respond, and what path we take through an interface. These traces can then be used to make assumptions about us. My project begins by making this kind of trace visible.
 
-![Figure 3. Sketch showing how the audience creates data through moving, clicking, and pausing.](../assets/week-06/A1W6.jpeg)  
+![Figure 3. Sketch showing how the audience creates data through moving, clicking, and pausing.](../assets/week-06/A1W6.jpg)  
 
 
 ---
@@ -84,7 +84,7 @@ The Week 06 data structure is intentionally simple. I am only using data that ca
 
 At this stage, I am avoiding interpretation such as “this person is confident” or “this person is anxious.” The data is only being observed and displayed. This is important because I want to build the project gradually. Week 06 should not jump straight into a final emotional-reading system. Instead, it should ask whether this kind of behavioural data is useful material for the project.
 
-![Figure 4. Data structure table / diagram showing raw movement data and coverage data.](../assets/week-06/A2W6.jpeg)  
+![Figure 4. Data structure table / diagram showing raw movement data and coverage data.](../assets/week-06/A2W6.jpg)  
 
 
 ---
@@ -241,7 +241,7 @@ The project currently has four possible layers:
 
 For Week 06, I am only testing the first two layers. I do not want to build the final result yet because I still need space to develop the concept across the following weeks.
 
-![Figure 12. Initial system sketch showing interaction layer, data capture layer, visual response layer, and reflection layer.](../assets/week-06/A3W6.jepg)  
+![Figure 12. Initial system sketch showing interaction layer, data capture layer, visual response layer, and reflection layer.](../assets/week-06/A3W6.jpg)  
 
 ---
 
@@ -365,10 +365,6 @@ The concept sketch includes:
 5. **Audience reflection point**  
    A final moment where the audience considers how the system interpreted them.
 
-![Figure 18. Initial concept sketch showing audience, screen, live capture, and future interpretation layer.](../assets/week-06/A4W6.jpeg)  
-*Figure 18. Placeholder for initial concept sketch.*
-
-This sketch helped me identify that the project should not move too quickly toward a polished outcome. The main task now is to clarify the system and test each layer step by step. The final artefact will become stronger if the early weeks show careful planning, research, and reflection.
 
 ---
 

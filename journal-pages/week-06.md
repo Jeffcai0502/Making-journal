@@ -64,7 +64,7 @@ This data comes from the audience during the experience, so it is both personal 
 I chose this kind of data because it connects directly to my project theme. Many digital systems collect behavioural traces in the background: how long we pause, where we click, what we ignore, how quickly we respond, and what path we take through an interface. These traces can then be used to make assumptions about us. My project begins by making this kind of trace visible.
 
 ![Figure 3. Sketch showing how the audience creates data through moving, clicking, and pausing.](../assets/week-06/A1W6.jepg)  
-*Figure 3. Placeholder for data source sketch.*
+
 
 ---
 
@@ -85,7 +85,7 @@ The Week 06 data structure is intentionally simple. I am only using data that ca
 At this stage, I am avoiding interpretation such as “this person is confident” or “this person is anxious.” The data is only being observed and displayed. This is important because I want to build the project gradually. Week 06 should not jump straight into a final emotional-reading system. Instead, it should ask whether this kind of behavioural data is useful material for the project.
 
 ![Figure 4. Data structure table / diagram showing raw movement data and coverage data.](../assets/week-06/A2W6.jepg)  
-*Figure 4. Placeholder for data structure diagram.*
+
 
 ---
 
@@ -110,7 +110,7 @@ This week, I gathered visual references that connect to interaction, personal da
 ### 2.1 Giorgia Lupi and Stefanie Posavec — *Dear Data*
 
 ![Figure 5. Giorgia Lupi and Stefanie Posavec, Dear Data.](../assets/week-06/DDW6.jpg)  
-*Figure 5. Placeholder for Dear Data reference image.*
+
 
 **What draws me to it:**  
 *Dear Data* transforms everyday personal observations into hand-drawn visual systems. I am drawn to the way the project makes small details of daily life feel meaningful. The data is not presented as cold statistics; it is intimate, imperfect, and connected to lived experience.
@@ -126,7 +126,7 @@ This reference reinforces my interest in data humanism. It helps me think about 
 ### 2.2 Domestic Data Streamers — Participatory Data Works
 
 ![Figure 6. Domestic Data Streamers participatory data installation.](../assets/week-06/SW6.jpg)  
-*Figure 6. Placeholder for Domestic Data Streamers reference image.*
+
 
 **What draws me to it:**  
 Domestic Data Streamers often create participatory works where audiences physically contribute to a data system. The viewer is not passive; their action becomes part of the work.
@@ -142,7 +142,7 @@ This reference makes me think more carefully about the participation flow. The p
 ### 2.3 Mark Hansen and Ben Rubin — *Listening Post*
 
 ![Figure 7. Mark Hansen and Ben Rubin, Listening Post.](../assets/week-06/MW6.png)  
-*Figure 7. Placeholder for Listening Post reference image.*
+
 
 **What draws me to it:**  
 *Listening Post* collects fragments from online conversations and turns them into a public installation. It feels poetic, but also slightly uncomfortable, because private digital traces become visible in a public form.
@@ -158,7 +158,7 @@ This precedent strengthens the critical side of the project. The final work shou
 ### 2.4 Rafael Lozano-Hemmer — *Pulse Room*
 
 ![Figure 8. Rafael Lozano-Hemmer, Pulse Room.](../assets/week-06/PW6.jpg)  
-*Figure 8. Placeholder for Pulse Room reference image.*
+
 
 **What draws me to it:**  
 *Pulse Room* takes a participant’s heartbeat and turns it into a field of flashing light bulbs. A hidden bodily signal becomes visible, shared, and spatial.
@@ -174,7 +174,7 @@ This reinforces the idea that simple data can become powerful if the translation
 ### 2.5 Natalie Jeremijenko — *Dangling String*
 
 ![Figure 9. Natalie Jeremijenko, Dangling String.](../assets/week-06/DSW6.jepg)  
-*Figure 9. Placeholder for Dangling String reference image.*
+
 
 **What draws me to it:**  
 *Dangling String* makes internet traffic visible through a moving physical string. I am interested in how the work translates invisible digital activity into a calm, visible behaviour.
@@ -190,7 +190,7 @@ This is useful for my project because I am thinking about movement and coverage 
 ### 2.6 Personality Tests, MBTI, and Custom Category Systems
 
 ![Figure 10. Visual research collage of personality test interfaces and avatar/custom character systems.](../assets/week-06/AW6.png)  
-*Figure 10. Placeholder for visual research collage.*
+
 
 **What draws me to it:**  
 Personality tests are popular because they give people a simplified language for describing themselves. They are often easy to share and emotionally satisfying, even when they are reductive or not fully scientific.
@@ -206,7 +206,7 @@ This reference helps me think about the final audience gain. A custom category o
 ### 2.7 Game Systems and Behavioural Profiling
 
 ![Figure 11. Visual reference for game systems that track player choices and behaviour.](../assets/week-06/GW6.jpg)  
-*Figure 11. Placeholder for game behaviour / player choice system reference.*
+
 
 **What draws me to it:**  
 Many games track player choices and use them to shape feedback, endings, or character alignment. I am interested in this because it shows how interaction can become a profile of the player.
@@ -241,8 +241,7 @@ The project currently has four possible layers:
 
 For Week 06, I am only testing the first two layers. I do not want to build the final result yet because I still need space to develop the concept across the following weeks.
 
-![Figure 12. Initial system sketch showing interaction layer, data capture layer, visual response layer, and reflection layer.](../assets/week-06/figure-12-system-sketch.png)  
-*Figure 12. Placeholder for initial system sketch.*
+![Figure 12. Initial system sketch showing interaction layer, data capture layer, visual response layer, and reflection layer.](../assets/week-06/A3W6.jepg)  
 
 ---
 
@@ -254,8 +253,6 @@ The early system logic is:
 
 This is deliberately simple. It helps me test whether audience behaviour can become usable data before adding more complex ideas.
 
-![Figure 13. Diagram showing simple Week 06 system logic.](../assets/week-06/figure-13-simple-system-logic.png)  
-*Figure 13. Placeholder for simple system logic diagram.*
 
 ---
 
@@ -274,8 +271,6 @@ The reason I am interested in this direction is that it gives the audience somet
 - What parts of me are missing from the data?
 - Is this a reflection, or an invention?
 
-![Figure 14. Rough sketch of possible later character/category response.](../assets/week-06/figure-14-future-response-sketch.png)  
-*Figure 14. Placeholder for future character/category idea sketch.*
 
 ---
 
@@ -321,9 +316,6 @@ During the proposal consultation, the most useful feedback was that my project n
 
 After the consultation, I refined the project toward audience interaction data and digital identity interpretation. I decided to focus first on simple behavioural traces, such as movement, pauses, clicks, and coverage. This makes the project more practical and gives me a clearer data source. I also realised that the final work should not claim to accurately detect emotion. Instead, it should question how systems make assumptions from limited data. As a result, I will develop the project more slowly, beginning with basic live capture in Week 06 before exploring categories, characters, and feedback in later weeks.
 
-![Figure 15. Consultation notes showing the decision to simplify the project direction.](../assets/week-06/figure-15-consultation-notes.png)  
-*Figure 15. Placeholder for consultation notes.*
-
 ---
 
 ## 2. Technical Skill Building
@@ -341,17 +333,14 @@ The sketch records:
 
 The visual output is also simple. The canvas contains a grid, and cells become darker when the mouse passes through them. A small information panel shows the live values updating in real time. This helps me understand how behaviour can become measurable without overdeveloping the final design too early.
 
-![Figure 16. Screenshot of simple p5.js live data capture test.](../assets/week-06/figure-16-p5-live-data-capture.png)  
-*Figure 16. Placeholder for screenshot of the simple p5.js capture test.*
+![Figure 2. Very simple p5.js live data capture test showing movement and coverage only.](../assets/week-06/1W6.gif)  
 
-![Figure 17. Screenshot showing movement coverage grid after interaction.](../assets/week-06/figure-17-movement-coverage.png)  
-*Figure 17. Placeholder for movement coverage screenshot.*
 
 Through this test, I learned that even very simple interaction data can produce a visible pattern. The coverage grid shows where attention and movement travelled across the interface. However, the test also shows that raw data does not automatically create meaning. It needs framing, interpretation, and visual design. This is why the next stage should focus on concept development rather than adding too many features immediately.
 
 ### p5.js Prototype Link
 
-[Simple Live Data Capture — paste p5.js link here](https://editor.p5js.org/your-username/sketches/your-sketch-id)
+[Simple Live Data Capture — paste p5.js link here](https://editor.p5js.org/Jeffcai0502/sketches/WzcK16fsP)
 
 ---
 
@@ -376,7 +365,7 @@ The concept sketch includes:
 5. **Audience reflection point**  
    A final moment where the audience considers how the system interpreted them.
 
-![Figure 18. Initial concept sketch showing audience, screen, live capture, and future interpretation layer.](../assets/week-06/figure-18-initial-concept-sketch.png)  
+![Figure 18. Initial concept sketch showing audience, screen, live capture, and future interpretation layer.](../assets/week-06/A4W6.jepg)  
 *Figure 18. Placeholder for initial concept sketch.*
 
 This sketch helped me identify that the project should not move too quickly toward a polished outcome. The main task now is to clarify the system and test each layer step by step. The final artefact will become stronger if the early weeks show careful planning, research, and reflection.

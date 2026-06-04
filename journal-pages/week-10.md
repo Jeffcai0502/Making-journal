@@ -355,7 +355,7 @@ For Week 11, my main task is to connect the collected interaction data to the en
 
 # Week 10 p5.js Prototype
 
-[Week 10 Interaction Page Prototype — paste your live p5.js / GitHub Pages link here](https://editor.p5js.org/Jeffcai0502/sketches/KbHLebwDJ)
+[Week 10 Interaction Page Prototype](https://editor.p5js.org/Jeffcai0502/sketches/KbHLebwDJ)
 
 ![Week 10 progress GIF showing the interaction trace page, next button, and weird image single-choice question page.](../assets/week-10/1W10.gif)  
 *Week 10 progress GIF. The prototype now includes the first interaction page, a next button, stored page-one data, and a second page with a weird image single-choice question. The final result logic will be connected in Week 11.*

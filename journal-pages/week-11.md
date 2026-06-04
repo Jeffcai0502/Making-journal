@@ -295,7 +295,7 @@ The final project now feels more complete because it has both playful interactio
 
 [Final Code](https://editor.p5js.org/Jeffcai0502/sketches/vkvgoq-qx)
 
-![Final GIF showing the full Interactive Data Mirror experience from start page to generated character result.](../assets/week-11/1W11.gif)  
+![Final GIF showing the full Interactive Data Mirror experience from start page to generated character result.](../assets/week-11/1w11.gif)  
 *Final GIF. The completed experience moves from the start page, through behaviour capture, interpretation questions, Pong survival, and final generated character/category result.*
 
 ---

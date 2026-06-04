@@ -145,12 +145,6 @@ The result categories are inspired by MBTI-style profiles, but they are not copi
 
 This table helped me understand that every category has a possible misreading. This is important because the final project should not hide the weakness of data interpretation. The categories should feel personal, but also slightly unstable.
 
-![Figure 1](../assets/week-09/1w9.png)  
-![Figure 1](../assets/week-09/2w9.png)  
-![Figure 1](../assets/week-09/3w9.png)  
-![Figure 1](../assets/week-09/4w9.png)  
-![Figure 1](../assets/week-09/5w9.png)  
-
 ### Result Logic Draft
 
 | Data dimension | Possible visual effect | Possible category influence |
@@ -321,9 +315,9 @@ The next step is to connect the starting page, interaction page, and ending page
 
 # Week 09 p5.js Prototype
 
-[Week 09 Ending Page Prototype](https://editor.p5js.org/Jeffcai0502/sketches/Gip9OYo45)
+[Week 09 Ending Page Prototype — paste your live p5.js / GitHub Pages link here](https://editor.p5js.org/your-username/sketches/your-sketch-id)
 
-![Week 09 progress GIF showing the ending page and different possible result categories.](../assets/week-09/1W9.gif)  
+![Week 09 progress GIF showing the ending page and different possible result categories.](../assets/week-09/week-09-progress-gif.gif)  
 *Week 09 progress GIF. The prototype currently focuses on the ending/result page and cycles through possible MBTI-like categories. The interaction page is still reserved for later development.*
 
 ---

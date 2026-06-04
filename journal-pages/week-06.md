@@ -16,7 +16,7 @@ My project direction is currently called **Interactive Data Mirror**. It explore
 
 The final project may later develop into an interactive experience where the audience receives a custom character, category, or feedback based on their interaction data. However, for Week 06, this is only a future direction. This week is about building the foundation: What data could be collected? What does it mean? What are the limitations? What do I need to learn before making the final artefact?
 
-![Figure 1. Early project direction notes showing behaviour data, emotional interpretation, and possible audience response.](../assets/week-06/figure-01-project-direction-notes.png)  
+![Figure 1. Early project direction notes showing behaviour data, emotional interpretation, and possible audience response.](../assets/week-06/1W6.gif)  
 [View the Test](https://editor.p5js.org/Jeffcai0502/sketches/WzcK16fsP)
 
 ---

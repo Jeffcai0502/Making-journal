@@ -20,10 +20,7 @@ This week’s work developed the project in three directions:
 2. testing small p5.js code fragments for data capture  
 3. exploring “what if” variations that could make the project more critical and meaningful
 
-The final artefact is still not finished. I am treating Week 07 as a testing and decision-making stage, where I can explore possible directions before committing to the final interaction and visual language later.
-
-![Figure 1. Week 07 concept sketch showing the audience journey from interaction to data capture to later reflection.](../assets/week-07/figure-01-concept-sketch.png)  
-*Figure 1. Placeholder for Week 07 concept sketch.*
+I am treating Week 07 as a testing and decision-making stage, where I can explore possible directions before committing to the final interaction and visual language later.
 
 ---
 
@@ -47,8 +44,7 @@ The updated sketch has four main stages:
 4. **Future Reflection Layer**  
    Later in the project, this data may become a custom category, character, or feedback card. At this stage, this remains a planned direction rather than a completed output.
 
-![Figure 2. More developed concept sketch showing screen layout, interaction area, and possible reflection layer.](../assets/week-07/figure-02-developed-concept-sketch.png)  
-*Figure 2. Placeholder for developed concept sketch.*
+![Figure 2. More developed concept sketch showing screen layout, interaction area, and possible reflection layer.](../assets/week-07/1W7.jpg)  
 
 ### Peer Feedback
 
@@ -67,9 +63,6 @@ One peer asked an important question:
 > “If the system gives people a category, how will they know it is not meant to be completely true?”
 
 This question helped me realise that the final artefact needs to include a visible reflection moment. If the audience only receives a category or character, the project may become too similar to a personality test. The stronger direction is to show how the result was made and invite the audience to question it.
-
-![Figure 3. Photograph of peer feedback notes from concept sketch activity.](../assets/week-07/figure-03-peer-feedback-notes.png)  
-*Figure 3. Placeholder for peer feedback notes.*
 
 ### Development After Feedback
 
@@ -114,8 +107,7 @@ This is a very simple fragment, but it helped me think about how small actions c
 
 However, I also recognised that click count is limited. More clicks do not automatically mean more confidence or more interest. It could also mean confusion. This reinforces the critical side of the project: behavioural data always needs interpretation, and interpretation can be wrong.
 
-![Figure 4. Screenshot of simple click-count test in p5.js.](../assets/week-07/figure-04-click-count-test.png)  
-*Figure 4. Placeholder for click-count test screenshot.*
+![Figure 4. Screenshot of simple click-count test in p5.js.](../assets/week-07/2W7.png)  
 
 ---
 
@@ -176,8 +168,7 @@ function draw() {
 
 This test felt most connected to the project because it creates a visible behavioural trace. The audience’s movement gradually leaves evidence on the screen. This supports the idea of a “data mirror,” where the system reflects back a pattern created by the audience’s own interaction.
 
-![Figure 5. Screenshot of movement coverage grid test.](../assets/week-07/figure-05-movement-coverage-grid.png)  
-*Figure 5. Placeholder for movement coverage grid test.*
+![Figure 5. Screenshot of movement coverage grid test.](../assets/week-07/3W7.png)  
 
 ---
 
@@ -238,8 +229,6 @@ The system could first produce a reading, then allow the audience to respond: �
 
 This was the most useful variation because it makes the audience more active. They do not simply receive the system’s judgement; they can challenge it.
 
-![Figure 6. Sketch of possible audience correction loop.](../assets/week-07/figure-06-correction-loop-sketch.png)  
-*Figure 6. Placeholder for correction loop sketch.*
 
 ---
 
@@ -310,9 +299,6 @@ The most important learning was not just technical. I realised that every mappin
 
 This is important because the project is about data representation. The final work should make the audience aware that data does not speak by itself. It is translated through design choices.
 
-![Figure 7. Screenshot of small data-mapping code tests.](../assets/week-07/figure-07-code-tests.png)  
-*Figure 7. Placeholder for screenshots of code tests.*
-
 ---
 
 ## 2. Progress Report Summary
@@ -322,6 +308,9 @@ For next week’s progress report, I organised my current project direction into
 ### Current Project Direction
 
 **Interactive Data Mirror** is a website-based data visualisation that uses audience interaction data to explore how digital systems interpret behaviour. The project begins with simple traces such as movement, clicks, pauses, and coverage. These traces may later become a custom character, category, or feedback response.
+
+![Figure 2. Very simple p5.js live data capture test](../assets/week-06/1W7.gif)  
+[View the Test and Code](https://editor.p5js.org/Jeffcai0502/sketches/9yfSe62u7)
 
 ### Key Developments So Far
 
@@ -347,8 +336,6 @@ The references most relevant to my direction are:
 2. Should the final response be more like a character, a feedback card, or a visual atmosphere?
 3. How can I make the audience understand that the system’s reading is designed and limited, not objectively true?
 
-![Figure 8. Draft progress report slide plan for Week 08.](../assets/week-07/figure-08-progress-report-plan.png)  
-*Figure 8. Placeholder for progress report slide plan.*
 
 ---
 
